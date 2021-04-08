@@ -1,3 +1,9 @@
+<div>
+  <p align="center">
+    <img src="/icon.png?raw=true" width="150" height="150" alt="ForeCasta App Icon"/>
+  </p>
+</div>
+
 # ForeCasta
 ForeCasta is a unique and easy to use weather app. It focuses on simplicity and aesthetic appeal in design. 
 
