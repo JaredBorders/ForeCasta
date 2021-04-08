@@ -1,9 +1,3 @@
-<div>
-  <p align="center">
-    <img src="/AppIcon 1.png?raw=true" width="150" height="150" alt="CovidTracker-Plus App Icon"/>
-  </p>
-</div> 
-
 # ForeCasta
 ForeCasta is a unique and easy to use weather app. It focuses on simplicity and aesthetic appeal in design. 
 
@@ -24,5 +18,8 @@ ForeCasta allows users to simply press a location on the provided map to find wh
 ForeCasta also automatically finds the forecast based on the user’s location, or the user can manually search for 
 a nearby city to find that same data. Changing units is also made simple for the user. Simply tapping the unit label 
 updates all information for either Celsius or Fahrenheit. Finally, ForeCasta is made to look amazing in both light and dark mode.
+
+## Download
+https://apps.apple.com/us/app/forecasta/id1511328940?ls=1
 
 ## Demo
