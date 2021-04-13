@@ -29,4 +29,9 @@ updates all information for either Celsius or Fahrenheit. Finally, ForeCasta is 
 https://apps.apple.com/us/app/forecasta/id1511328940?ls=1
 
 ## Demo
-![GIF of ForeCasta being used to check weather](Demo.gif)
+<div>
+  <p align="center">
+    ![GIF of ForeCasta being used to check weather](Demo.gif)
+  </p>
+</div>
+
